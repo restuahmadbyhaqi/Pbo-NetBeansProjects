@@ -1,13 +1,16 @@
 Mahasiswa\Mahasiswa.class
 Binatang\Kerbau.class
 ContohSwitchCase.class
+keluarga\Manusia.class
 Mobil\Mobil.class
 Interface\BonBin$1.class
 BangunDatar\SegiTiga.class
 User.class
 Abstract\BonBin$1.class
+keluarga\Anak.class
 Mobil\MainMobil.class
 scan.class
+keluarga\Keluarga.class
 Animal\Kucing.class
 BangunDatar\BangunDatar.class
 pesawat\PesawatTempur.class
@@ -27,6 +30,7 @@ Binatang\Gajah.class
 Abstract\BonBin.class
 Animal\Animal.class
 InputanKeyboard.class
+keluarga\Orang_Tua.class
 inputKeyboard.class
 Public.class
 Abstract\Binatang.class
