@@ -18,6 +18,7 @@ BangunDatar\PersegiPanjang.class
 Abstract\BonBin$2.class
 BangunDatar\LuasBangunDatar.class
 Binatang\Binatang.class
+modifier\Printer.class
 StringProcedure.class
 Hewan\Main.class
 Mobil\MainToyota.class
@@ -41,6 +42,7 @@ Mahasiswa\MainMahasiswa.class
 Hewan\Mamalia.class
 Interface\Kerbau.class
 Interface\Gajah.class
+TestModifer\TestPrinter.class
 perulanganfor.class
 DemoUser.class
 CetakNilai.class
